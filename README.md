@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hola, soy Josias 👋
 
-<!--
-**Josias2910/Josias2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Tecnicatura Universitaria en Programación e Ingenieria en Inteligencia Artificial  
+💻 Interesado en desarrollo de software y bases de datos  
+📍 Paraná, Entre Ríos, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- C#
+- Java
+- .NET
+- Entity Framework Core
+- LINQ
+- SQL Server
+- Git / GitHub
+
+---
+
+## Proyecto destacado
+
+### NovaSales ERP
+
+Sistema de gestión de ventas desarrollado con:
+
+- C#
+- .NET
+- SQL Server
+- Entity Framework Core
+- Arquitectura en capas
+
+Funciones principales:
+
+- Gestión de usuarios
+- Gestión de productos y categorías
+- Registro de ventas
+- Registro de compras
+- Reportes y estadísticas
+- Exportación de datos a Excel y PDF
+
+(Repositorio próximamente)
+
+---
+
+## Actualmente
+
+📚 Aprendiendo más sobre desarrollo backend y buenas prácticas de arquitectura, enfocado en aprender Java-SpringBoot y Azure.
