@@ -1,6 +1,12 @@
 # Hola, soy Josias 👋
 
-🎓 **Estudiante de Tecnicatura Universitaria en Programación** 🚀 **Estudiante de Ing. en Inteligencia Artificial** 💻 **Interesado en desarrollo de software, arquitectura de sistemas y bases de datos.** 📍 **Paraná, Entre Ríos, Argentina.**
+🎓 **Estudiante de Tecnicatura Universitaria en Programación**
+
+🚀 **Estudiante de Ing. en Inteligencia Artificial**
+
+💻 Interesado en desarrollo de software, arquitectura de sistemas y bases de datos.
+
+📍 Paraná, Entre Ríos, Argentina.
 
 ---
 ## 📬 Contacto
