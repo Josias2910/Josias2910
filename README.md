@@ -53,4 +53,4 @@
 ---
 
 ## 📚 Actualmente
-Actualmente profundizando en **Backend con Java-SpringBoot** y explorando servicios de **Azure** para despliegue en la nube.
+Actualmente profundizando en **Backend con Java-SpringBoot** y explorando **Angular** para crear aplicaciones web escalables y de alto rendimiento.
