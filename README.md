@@ -39,10 +39,10 @@
 - **Estadisticas:** Demostracion total de estadisticas en tiempo real.
 - **Despliegue Automatizado:** Creación de un instalador profesional con Inno Setup que incluye la configuración silenciosa del motor SQL Express, garantizando un despliegue rápido y sin errores en el cliente.
 
-### 📸 Vistas del Sistema
-*(Aquí insertas tus capturas)*
-> ![Dashboard](ruta_a_tu_imagen_1.png)
-> ![Ventas](ruta_a_tu_imagen_2.png)
+### 🔗 Enlace al Proyecto
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Código_Fuente-NovaSales--ERP-blue?style=for-the-badge&logo=github)](https://github.com/Josias2910/NovaSales-ERP)
+
+> **Nota:** Haz clic en el enlace de arriba para ver el código completo, las capturas de pantalla y la documentación técnica del sistema.
 
 ### 🏗️ Arquitectura Técnica
 - **Lenguaje:** C# (.NET)
