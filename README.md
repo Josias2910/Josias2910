@@ -11,6 +11,7 @@
 ---
 ## 📬 Contacto
 - **Email:** JosiasSchumacher@gmail.com
+- **Celular:** +54 9 343 532-9928
 
 ---
 
